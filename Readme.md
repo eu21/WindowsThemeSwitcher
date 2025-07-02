@@ -11,10 +11,10 @@ C:\Windows\Resources\Themes
 ```
 
 *Copy *.theme files into C:\Windows\Resources\Themes as Admin *
-![[1.png]]
+![Description](1.png)
 
 *enable in Personalization -> Themes*
-![[2.png]]
+![Description](2.png)
 
 Done!
 
