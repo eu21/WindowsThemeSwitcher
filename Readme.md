@@ -11,10 +11,10 @@ C:\Windows\Resources\Themes
 ```
 
 *Copy *.theme files into C:\Windows\Resources\Themes as Admin *
-![[Attachments/886af579ed1fcf952bbb5d80ac4e0195_MD5.jpeg]]
+![[1.png]]
 
 *enable in Personalization -> Themes*
-![[Attachments/9cd46c47ffee85afeaf866b77d6f8833_MD5.jpeg]]
+![[2.png]]
 
 Done!
 
