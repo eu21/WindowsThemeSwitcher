@@ -10,7 +10,7 @@ Copy *.theme files into as Admin
 C:\Windows\Resources\Themes
 ```
 
-*Copy *.theme files into C:\Windows\Resources\Themes as Admin *
+*Copy .theme files into C:\Windows\Resources\Themes as Admin *
 ![Description](1.png)
 
 *enable in Personalization -> Themes*
